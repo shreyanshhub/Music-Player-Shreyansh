@@ -45,6 +45,12 @@ const music_list = [
         artist : 'Clean Bandit',
         music : 'music/Rather Be.mp3'
 
+    },
+    {
+        img : 'images/faded.png',
+        name : 'Jaan',
+        artist : 'Unkown',
+        music : 'music/jaan.mp3'
     }
 
 
